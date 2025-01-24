@@ -3,6 +3,7 @@
 ##
 ## Get latest from `dotnet new gitignore`
 appsettings.Development.json
+school.sqlite
 # dotenv files
 .env
 
